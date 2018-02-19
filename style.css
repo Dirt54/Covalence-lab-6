@@ -1,0 +1,29 @@
+body {
+    background-color: #1C1C1C;
+}
+h3 {
+    color: #A95D2F; 
+    height: 20px;
+    width: 130px;
+    background-color: #0C2196;
+    margin: 25px;
+    padding: 12px;
+   outline-width: 5px;
+   outline-style: outset;
+   outline-color: #8B0606;
+}
+h3:active {
+    color: #A95D2F; 
+    height: 20px;
+    width: 130px;
+    background-color: #071976;
+    margin: 25px;
+    padding: 12px;
+   outline-width: 5px;
+   outline-style: inset;
+   outline-color: #590E0E;
+}
+
+.curser {
+    cursor: pointer;
+}
